@@ -1,4 +1,5 @@
 Package.describe({
+	name: "fredrik:node-xmpp",
 	summary: "Wrapper for the node-xmpp npm package",
 	version: "1.0.0",
 	git: "https://github.com/fredrikekelund/meteor-node-xmpp.git"
